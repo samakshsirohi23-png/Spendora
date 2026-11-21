@@ -1,0 +1,6 @@
+spendora_transactions.csv
+spendora_budget.csv
+__pycache__/
+*.pyc
+.env
+venv/
